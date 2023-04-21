@@ -24,6 +24,7 @@ OFF	OFF	4.Count Sequence: 0-1-2-3-4-5-8-9-0-1-2-3-4-5-8-9... (Jumps from 5-8)
 
 --------------------------------------------------------------------------------------------
 
-NOTE: Mode 3 currently has a BUG, and program will start in mode 4. Just turn to mode 1 and select between MODES (1,2,4). This will eliminate any bugs when starting the program. 
+NOTE: Mode 3 currently has a BUG, and program will start in mode 4. Just turn to mode 1
+and select between MODES (1,2,4). This will eliminate any bugs when starting the program. 
 
 This program has 4- 4:1 Mulitplexers, 1- 4Bit Register, 3- Mealy FSM Decoders and 2- Switches 
