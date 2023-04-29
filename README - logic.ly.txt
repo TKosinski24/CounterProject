@@ -15,7 +15,7 @@ This project is implimented in Locic.ly and has 4 modes,
 To active these different modes the circut uses two switches to interact with A and B 
 Guide to change modes:
 
-A	B	RESULT
+A	B	MODE/RESULT
 
 ON	ON	1.Stable mode Nothing happens
 ON	OFF	2.Count Sequence: 0-1-2-3-4-5-6-7-8-9-0-1-2-3-4-5... (from 0-9)
